@@ -1,0 +1,7 @@
+my_tuple = (1,2,2,3,4,1,3,2,6,2,2,3,4,1)
+print(my_tuple)
+print(my_tuple.count(2))
+print(len(my_tuple))
+print(my_tuple.index(4))
+print(my_tuple[3:5])
+print(my_tuple[-2:])
